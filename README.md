@@ -1,7 +1,7 @@
-# Steff Scripts qb-wallet
+# Steff Scripts qb-duffelbag
 
 ## Overview
-The qb-wallet script is an add-on for your FiveM server's inventory system. It allows players to buy and use wallets, duffel bags, or briefcases, offering slots for storing personal documents.
+The qb-duffelbag script is an add-on for your FiveM server's inventory system. It allows players to buy and use wallets, duffel bags, or briefcases, offering slots for storing personal documents.
 
 ## Features
 - **Flexible Storage**: Choose between wallets, duffel bags, or briefcases to store your personal documents.
