@@ -8,7 +8,7 @@ The qb-duffelbag script is an add-on for your FiveM server's inventory system. I
 - **Customizable Slots**: Adjust the number of slots according to your preference to organize your documents efficiently.
 
 ## Installation
-1. **Image Integration**: Drag images from `qb-wallet/images` into `lj-inventory` script's `html/images`.
+1. **Image Integration**: Drag images from `qb-duffelbag/images` into `lj-inventory` script's `html/images`.
 2. **Modify Items Configuration**: In `qb-core/shared/items.lua`, add the following items:
 ```lua
 wallet = { name = "wallet", label = "Wallet", weight = 500, type = "item", image = "wallet.png", unique = true, useable = true, shouldClose = false, combinable = nil, description = "" },
